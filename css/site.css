@@ -9,6 +9,16 @@
             font-family: "Segoe UI";
             src: url('../fonts/segoeuil.ttf');
         }
+		.header{
+			height: 10%;
+            width: 100%;
+			background: black;
+			text-align: center;
+		}
+		.header h1{
+			margin: auto;
+			color: grey;
+		}
         .main-container {
             height: 100%;
             width: 100%;
